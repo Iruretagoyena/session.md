@@ -3,7 +3,6 @@
 **Author:** Diego Iruretagoyena
 **Project:** SCx (Supercomputer Client + Service), Azure HPC / AI Customer Experience
 **Period:** January 2026 to May 2026
-**Prepared for:** Y Combinator, Summer 2026 application
 
 ---
 
